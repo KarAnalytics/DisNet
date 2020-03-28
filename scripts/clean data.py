@@ -23,6 +23,7 @@ diagnosis = pd.read_csv('diagnosis.csv')
 diagnosis.shape
 diagnosis.head()
 
+
 unique_diagnosis = diagnosis.diagnosisstring.unique()
 len(unique_diagnosis)
 
