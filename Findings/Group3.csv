@@ -1,0 +1,27 @@
+,Diagnosis String
+1,toxicology|drug overdose|barbiturate overdose
+2,toxicology|drug overdose|ethanol overdose|with respiratory depression
+3,toxicology|drug overdose|overdose of unknown agent(s)
+4,toxicology|drug overdose|tricyclic overdose
+5,neurologic|altered mental status / pain|suicidal ideation
+6,cardiovascular|arrhythmias|AV block|second degree
+7,toxicology|drug overdose|narcotic overdose|with respiratory depression
+8,toxicology|drug overdose|narcotic overdose
+9,toxicology|drug overdose|acetaminophen overdose
+10,toxicology|drug overdose|barbiturate overdose|with decreased mental status
+11,toxicology|drug overdose|benzodiazepine overdose|with decreased mental status
+12,toxicology|drug overdose|acetaminophen overdose|hepatic injury expected
+13,toxicology|drug overdose|acetaminophen overdose|dosage known
+14,toxicology|drug overdose|calcium channel blocker overdose
+15,toxicology|drug overdose|tricyclic overdose|with respiratory depression
+16,toxicology|drug overdose|tricyclic overdose|with dysrhythmia
+17,burns/trauma|trauma - skeletal|bone fracture(s)|left lower extremity|navicular
+18,transplant|s/p heart transplant|rejection - heart transplant|acute
+19,burns/trauma|trauma - skeletal|dislocation|elbow
+20,toxicology|drug overdose|narcotic overdose|with pulmonary edema
+21,toxicology|drug overdose|acetaminophen overdose|hepatic injury unexpected
+22,gastrointestinal|hepatic disease|fulminant hepatic failure|acetaminophen related
+23,burns/trauma|trauma - skeletal|bone fracture(s)|ilium
+24,cardiovascular|vascular disorders|arterial thromboembolism|associated with HIT
+25,infectious diseases|systemic/other infections|suspected bioterrorism|botulism
+26,neurologic|disorders of the spinal cord and peripheral nervous system|tethered cord
