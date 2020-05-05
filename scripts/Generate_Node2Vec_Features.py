@@ -18,3 +18,10 @@ graph=nx.from_numpy_matrix(df)
 
 node2vec = Node2Vec(graph, dimensions=20, walk_length=5, num_walks=200, workers=4)
 model = node2vec.fit(window=10, min_count=1)
+
+embedding_matrix = node2vec.wv.vectors
+#print(embedding_matrix.shape)
+#print(embedding_matrix[0:10,0:10])
+embedding_matrix = pd.DataFrame(embedding_matrix)
+print(embedding_matrix.head())
+embedding_matrix.to_csv('Undirected_network_embeddings.csv', index=False)
