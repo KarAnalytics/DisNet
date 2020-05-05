@@ -1,0 +1,41 @@
+,Diagnosis String
+1,burns/trauma|trauma - CNS|spinal cord injury|cervical
+2,burns/trauma|trauma - skeletal|bone fracture(s)|thoracic spine
+3,burns/trauma|trauma - skeletal|bone fracture(s)|lumbar spine
+4,gastrointestinal|trauma|traumatic injury of esophagus
+5,burns/trauma|trauma - skeletal|bone fracture(s)|ribs
+6,burns/trauma|trauma - skeletal|bone fracture(s)|acetabulum
+7,burns/trauma|trauma - skeletal|bone fracture(s)|pubis
+8,burns/trauma|trauma- head and neck|blunt injury to the neck|left
+9,burns/trauma|trauma - skeletal|bone fracture(s)|cervical spine
+10,neurologic|trauma - CNS|fracture of skull|vault
+11,burns/trauma|trauma- head and neck|blunt injury to the neck
+12,burns/trauma|trauma - CNS|fracture of skull|base
+13,burns/trauma|trauma - CNS|fracture of skull|vault
+14,neurologic|trauma - CNS|intracranial injury|with edema
+15,surgery|respiratory failure|acute lung injury|pulmonary etiology|inhalation injury
+16,burns/trauma|trauma - skeletal|bone fracture(s)|scapula
+17,neurologic|trauma - CNS|spinal cord injury|cervical
+18,"infectious diseases|skin, bone and joint infections|wound infection|traumatic wound"
+19,burns/trauma|trauma - skeletal|bone fracture(s)|clavicle
+20,burns/trauma|trauma - CNS|spinal cord injury|thoracic
+21,burns/trauma|trauma - skeletal|bone fracture(s)|sternum
+22,neurologic|trauma - CNS|intracranial injury|with increased ICP
+23,burns/trauma|trauma - abdomen|retroperitoneal trauma|with hemorrhage
+24,surgery|respiratory failure|acute lung injury|pulmonary etiology|aspiration
+25,burns/trauma|trauma - skeletal|bone fracture(s)|sacrum
+26,burns/trauma|trauma - skeletal|dislocation|hip
+27,neurologic|CNS mass lesions|increased intracranial pressure|from cerebral edema
+28,burns/trauma|trauma - skeletal|dislocation|elbow
+29,neurologic|trauma - CNS|spinal cord injury|thoracic
+30,burns/trauma|trauma- head and neck|blunt injury to the neck|right
+31,neurologic|CNS mass lesions|increased intracranial pressure|from intraaxial mass
+32,neurologic|trauma - CNS|fracture of skull|base
+33,burns/trauma|trauma - skeletal|dislocation|ankle
+34,burns/trauma|trauma - skeletal|dislocation|shoulder
+35,gastrointestinal|trauma|bowel trauma
+36,burns/trauma|trauma- head and neck|blunt injury to the neck|bilateral
+37,surgery|respiratory failure|acute lung injury|pulmonary etiology|pneumonia
+38,burns/trauma|trauma - skeletal|bone fracture(s)|ilium
+39,burns/trauma|trauma - systemic effects|ARDS
+40,burns/trauma|trauma - skeletal|dislocation|scapula
