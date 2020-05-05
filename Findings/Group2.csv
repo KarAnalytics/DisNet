@@ -1,0 +1,46 @@
+,Diagnosis String
+1,neurologic|seizures|seizures|new onset
+2,neurologic|misc|headache
+3,neurologic|altered mental status / pain|drug withdrawal syndrome
+4,infectious diseases|systemic/other infections|HIV positive
+5,gastrointestinal|abdominal/ general|pelvic abscess
+6,neurologic|misc|headache|severe
+7,renal|electrolyte imbalance|hyponatremia|moderate (125 - 135 meq/dl)
+8,infectious diseases|GI infections|rectal/perirectal abscess
+9,neurologic|CNS mass lesions|increased intracranial pressure|from hydrocephalus
+10,surgery|respiratory failure|acute lung injury|pulmonary etiology|inhalation injury
+11,gastrointestinal|transplant|recent liver transplant
+12,"infectious diseases|skin, bone and joint infections|wound infection|traumatic wound"
+13,neurologic|CNS mass lesions|brain tumor|with hydrocephalus
+14,neurologic|misc|headache|hydrocephalus
+15,neurologic|altered mental status / pain|drug withdrawal syndrome|nicotine
+16,neurologic|misc|headache|hydrocephalus|normal pressure
+17,gastrointestinal|abdominal/ general|abdominal compartment syndrome|hemorrhage related
+18,surgery|respiratory failure|acute lung injury|pulmonary etiology|aspiration
+19,infectious diseases|systemic/other infections|HIV positive|cd4 unknown
+20,neurologic|disorders of vasculature|stroke|hemorrhagic stroke|from amyloid angiopathy
+21,neurologic|seizures|seizures|partial with secondary generalization
+22,burns/trauma|trauma - skeletal|dislocation|ankle
+23,neurologic|misc|headache|hydrocephalus|post meningitis
+24,surgery|vascular surgery|surgery-related ischemia
+25,gastrointestinal|abdominal/ general|abdominal compartment syndrome
+26,surgery|infections|abdominal compartment syndrome
+27,neurologic|misc|headache|hydrocephalus|congenital
+28,infectious diseases|systemic/other infections|HIV positive|cd4 = 200 - 350
+29,infectious diseases|systemic/other infections|HIV positive|cd4 > 350
+30,infectious diseases|systemic/other infections|HIV positive|cd4 = 200 - 350|viral load unknown
+31,surgery|respiratory failure|acute lung injury|pulmonary etiology|pneumonia
+32,surgery|infections|abdominal compartment syndrome|post -op
+33,burns/trauma|trauma - systemic effects|ARDS
+34,cardiovascular|vascular disorders|arterial thromboembolism|associated with HIT
+35,gastrointestinal|transplant|recent pancreas transplant
+36,neurologic|disorders of vasculature|stroke|ischemic stroke|from cortical venous thrombosis
+37,gastrointestinal|transplant|recent liver transplant|living-donor
+38,neurologic|misc|headache|hydrocephalus|with herniation
+39,infectious diseases|systemic/other infections|HIV positive|cd4 > 350|viral load unknown
+40,neurologic|CNS mass lesions|brain tumor|with carcinomatous meningitis
+41,surgery|renal issues|acute renal failure|suspected
+42,burns/trauma|trauma - skeletal|dislocation|scapula
+43,"infectious diseases|systemic/other infections|HIV positive|cd4 = 200 - 350|hiv rna < 30, 000 (bdna) or < 55,000 (rt-pcr)"
+44,neurologic|disorders of the spinal cord and peripheral nervous system|tethered cord
+45,neurologic|misc|headache|due to multiple sclerosis
