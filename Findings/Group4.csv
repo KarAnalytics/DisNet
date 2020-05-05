@@ -1,0 +1,17 @@
+,Diagnosis String
+1,cardiovascular|ventricular disorders|cardiomyopathy|dilated
+2,cardiovascular|chest pain / ASHD|acute coronary syndrome|inferior wall|with conduction disturbance
+3,cardiovascular|arrhythmias|AV block|second degree
+4,cardiovascular|ventricular disorders|congestive heart failure|cor pulmonale
+5,neurologic|CNS mass lesions|brain tumor|with hydrocephalus
+6,cardiovascular|valvular disease|valvular stenosis|aortic|with angina
+7,cardiovascular|valvular disease|valvular insufficiency|pulmonic valve
+8,cardiovascular|ventricular disorders|cardiomyopathy|hypertrophic|idiopathic
+9,pulmonary|trauma|widened mediastinum|with aortic rupture
+10,transplant|s/p heart transplant|rejection - heart transplant|acute
+11,burns/trauma|trauma - skeletal|bone fracture(s)|ischium
+12,surgery|acute cardiac problems|acute coronary syndrome|anterior wall|with mitral regurgitation
+13,"surgery|altered mental status / pain|dementia|dementia, unknown etiology"
+14,surgery|acute cardiac problems|acute coronary syndrome|anterior wall
+15,neurologic|CNS mass lesions|brain tumor|with carcinomatous meningitis
+16,surgery|renal issues|acute renal failure|suspected
